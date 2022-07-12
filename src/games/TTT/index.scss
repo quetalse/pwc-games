@@ -1,0 +1,19 @@
+.Landing{
+
+  &-navigation{
+    //width: 80px;
+    //border-right: 1px solid #000000;
+
+    li{
+      //font-family: "TeX Gyre Heros", serif;
+      //font-weight: 400;
+      //font-size: 16px;
+      //line-height: 20px;
+
+      a.active{
+        color: #FF003D;
+        text-decoration-line: underline;
+      }
+    }
+  }
+}

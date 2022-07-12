@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "TeX Gyre Heros";
+  src: url("./assets/fonts/texgyreheros/texgyreheros-regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "TeX Gyre Heros";
+  src: url("./assets/fonts/texgyreheros/texgyreheros-bold.otf") format("opentype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Minecraft";
+  src: url("./assets/fonts/minecraft/Minecraft.ttf") format('truetype')
+}
+
+@font-face {
+  font-family: 'PWC';
+  src: url('./assets/fonts/pwc/pwc.eot');
+  src: url('./assets/fonts/pwc/pwc.eot?#iefix') format('embedded-opentype'),
+       url('./assets/fonts/pwc/pwc.woff') format('woff'),
+       url('./assets/fonts/pwc/pwc.ttf') format('truetype'),
+       url('./assets/fonts/pwc/pwc.svg#pwc') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  font-family: "TeX Gyre Heros", serif !important;
+}
+
+body::-webkit-scrollbar {
+  width: 10px;
+}
+
+body::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+body::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+body::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
