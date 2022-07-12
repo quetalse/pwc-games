@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.9449f229.css",
-    "main.js": "/static/js/main.c1715547.js",
-    "static/media/texgyreheros-bold.otf": "/static/media/texgyreheros-bold.58ea6cb4664df555e4fa.otf",
-    "static/media/texgyreheros-regular.otf": "/static/media/texgyreheros-regular.7f8416e7843494f6b279.otf",
-    "static/media/crystal_12.png": "/static/media/crystal_12.bd64bec1e97616d147a1.png",
-    "static/media/crystal_11.png": "/static/media/crystal_11.9f86d6796d369fcd8b87.png",
-    "static/media/pwc.svg": "/static/media/pwc.f54bfef3cd7ab96d011d.svg",
-    "static/media/Minecraft.ttf": "/static/media/Minecraft.81f6c7f882fcc2dee106.ttf",
-    "static/media/pwc.eot": "/static/media/pwc.0190fdc097116de4cf98.eot",
-    "static/media/pwc.ttf": "/static/media/pwc.539d4c4c3a1277303f59.ttf",
-    "static/media/pwc.woff": "/static/media/pwc.fa0dbca69ba3cecfd9f8.woff",
-    "index.html": "/index.html",
-    "main.9449f229.css.map": "/static/css/main.9449f229.css.map",
-    "main.c1715547.js.map": "/static/js/main.c1715547.js.map"
+    "main.css": "/pwc-games/static/css/main.fe2ffa54.css",
+    "main.js": "/pwc-games/static/js/main.c19aa195.js",
+    "static/media/texgyreheros-bold.otf": "/pwc-games/static/media/texgyreheros-bold.58ea6cb4664df555e4fa.otf",
+    "static/media/texgyreheros-regular.otf": "/pwc-games/static/media/texgyreheros-regular.7f8416e7843494f6b279.otf",
+    "static/media/crystal_12.png": "/pwc-games/static/media/crystal_12.bd64bec1e97616d147a1.png",
+    "static/media/crystal_11.png": "/pwc-games/static/media/crystal_11.9f86d6796d369fcd8b87.png",
+    "static/media/pwc.svg": "/pwc-games/static/media/pwc.f54bfef3cd7ab96d011d.svg",
+    "static/media/Minecraft.ttf": "/pwc-games/static/media/Minecraft.81f6c7f882fcc2dee106.ttf",
+    "static/media/pwc.eot": "/pwc-games/static/media/pwc.0190fdc097116de4cf98.eot",
+    "static/media/pwc.ttf": "/pwc-games/static/media/pwc.539d4c4c3a1277303f59.ttf",
+    "static/media/pwc.woff": "/pwc-games/static/media/pwc.fa0dbca69ba3cecfd9f8.woff",
+    "index.html": "/pwc-games/index.html",
+    "main.fe2ffa54.css.map": "/pwc-games/static/css/main.fe2ffa54.css.map",
+    "main.c19aa195.js.map": "/pwc-games/static/js/main.c19aa195.js.map"
   },
   "entrypoints": [
-    "static/css/main.9449f229.css",
-    "static/js/main.c1715547.js"
+    "static/css/main.fe2ffa54.css",
+    "static/js/main.c19aa195.js"
   ]
 }
